@@ -7,5 +7,7 @@ public class Main {
         System.out.println(18811);
         System.out.println(9999);
         System.out.println(1111111111);
+
+        System.out.println(111);
     }
 }
